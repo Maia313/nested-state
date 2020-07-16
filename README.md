@@ -1,2 +1,2 @@
-[![NestedState](https://img.shields.io/badges/NestedState-ff3f90.svg)]()
+![NestedState](https://img.shields.io/badges/NestedState-ff3f90.svg)
 
