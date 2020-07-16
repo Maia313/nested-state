@@ -1,4 +1,4 @@
-[![NestedState](https://github.com/denoland/rusty_v8/workflows/NestedState-ff3f90.svg)]()
+[![NestedState](https://img.shields.io/NestedState-ff3f90.svg)]()
 
 
 [![ci](https://github.com/denoland/rusty_v8/workflows/ci/badge.svg?branch=master)](https://github.com/denoland)
